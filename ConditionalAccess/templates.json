@@ -2,7 +2,7 @@
   "ConditionalAccess": [
     {
       "displayName": "EQU BL CA 001 Require Compliant Device",
-      "file": "ConditionalAccess/CA_EQU_BL_CA_001_Require_Compliant_Device.json"
+      "file": "ConditionalAccess/CA_EQU_BL_CA_001_Require_Compliant_Device_TEST.json"
     },
     {
       "displayName": "EQU BL CA 002 Require Microsoft Managed Applications",
